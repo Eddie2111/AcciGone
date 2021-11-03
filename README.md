@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Real time map plotting using mapbox on React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
