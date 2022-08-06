@@ -3,6 +3,10 @@
 When data[X,Y Coordinate] is recieved by axios, it will pop up a balloon on that location. 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). But custom css are more used in here.
 
+- This was an unfinished project
+- Currently runs on nodejs backend with mysql database
+- will be replacing mapbox with barikoi api
+
 ## Available Script Commands
 
 I haven't changed the core NPM commands. So, you can run:
