@@ -3,7 +3,7 @@ import "./App.css";
 import axios from "axios";
 import 'mapbox-gl/dist/mapbox-gl.css';
 import Map, {Source, Layer} from 'react-map-gl';
-
+// tokens should be remoed and put into environment
 // const secretToken = "sk.eyJ1Ijoic3R1ZGVudDIwMTAxMDczIiwiYSI6ImNsNmF3aGZpaDAxdXUza21tbGloZWNiNHgifQ.WntfC_IoCzqTUJ2t0HCWEw";
 const publicToken = "pk.eyJ1Ijoic3R1ZGVudDIwMTAxMDczIiwiYSI6ImNrdndjZG1paDQ1MHMybnRrbzIxN2NpajAifQ.KuopN6eJSnMav-bJZQMZmw";
 const layerStyle = {
